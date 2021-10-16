@@ -1,0 +1,17 @@
+Types of programming:
+1. Procedural Prgoramming : write code in a single block
+2. Modular Programming : splite code into many function
+3. Object Oriented Programming : use class and object
+
+Access Specifier:
+1. Public : could be access from anywhere
+2. Private : access only own class
+3. Procted : could be access but class must be inherited
+
+Characterustucs of OOP:
+1. Class : It is a user defined data type/blueprint, which has own membar variable and function
+2. Object : It is a instance of a class
+3. Encapsulation : Wraping data member in a class
+4. Polymorphism : Having many forms, a class method may behave differiently
+5. Inheritance : Inherit parent class members
+6. Abstruction : Hide complicated things from user
