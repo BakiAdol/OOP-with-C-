@@ -1,5 +1,6 @@
 /**
  * Change the behaviour of operators(+,-,*,/,...) in only class or struct type
+ * this concept is called compile time polymorphism/static binding/early binding
 */
 #include <bits/stdc++.h>
 
